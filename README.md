@@ -1,2 +1,2 @@
 # supriyawater
-supriyawater inentory
+supriyawater inventory
