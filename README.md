@@ -1,2 +1,0 @@
-# supriyawater
-supriyawater inventory
